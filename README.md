@@ -6,5 +6,9 @@ A) Fundamentals
    2) To check if a number is even or odd
    3) To find the factorial of a number
    4) To swap two numbers
-   5) To find factorial of a number using recursion
+   5) To find the factorial of a number using recursion
    6) To swap two numbers without using a third variable
+
+B) Pointers and Arrays
+   1) Pointer basics
+   2) Reverse a string using pointers
