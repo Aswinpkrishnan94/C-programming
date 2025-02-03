@@ -13,3 +13,4 @@ B) Pointers and Arrays
    1) Pointer basics
    2) Reverse a string using pointers
    3) Dynamically allocate an array
+   4) Structure basics
