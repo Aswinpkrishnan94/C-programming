@@ -8,6 +8,7 @@ A) Fundamentals
    4) To swap two numbers
    5) To find the factorial of a number using recursion
    6) To swap two numbers without using a third variable
+   7) To check if a number is Armstrong or not
 
 B) Pointers and Arrays
    1) Pointer basics
