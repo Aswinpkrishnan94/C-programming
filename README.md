@@ -9,7 +9,8 @@ A) Fundamentals
    5) To find the factorial of a number using recursion
    6) To swap two numbers without using a third variable
    7) To check if a number is Armstrong or not
-   8) To find Fibonacci numbers up to a given limit 
+   8) To find Fibonacci numbers up to a given limit
+   9) To check if a number is a Palindrome or not
 
 B) Pointers and Arrays
    1) Pointer basics
