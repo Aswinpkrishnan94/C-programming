@@ -25,3 +25,6 @@ C) Data Structures
 
 D) Others
    1) To Create a Thread using POSIX in Linux
+
+E) Embedded C
+   1) To count number of 1's in a binary
