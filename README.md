@@ -28,3 +28,4 @@ D) Others
 
 E) Embedded C
    1) To count number of 1's in a binary
+   2) To check if a number is even or odd
