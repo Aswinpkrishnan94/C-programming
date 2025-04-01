@@ -11,6 +11,7 @@ A) Fundamentals
    7) To check if a number is Armstrong or not
    8) To find Fibonacci numbers up to a given limit
    9) To check if a number is a Palindrome or not
+   10) To find GCD of two numbers
 
 B) Pointers and Arrays
    1) Pointer basics
