@@ -19,8 +19,9 @@ B) Pointers and Arrays
    2) Reverse a string using pointers
    3) Dynamically allocate an array
    4) Structure basics
-   5) To sort an array in Ascending order
-   6) To perform Binary Search
+   5) To sort an array in ascending order
+   6) To perform a Binary Search
+   7) To find frequency of a character in the string
 
 C) Data Structures
    1) Linked List Implementation 
