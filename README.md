@@ -21,14 +21,15 @@ B) Pointers and Arrays
    4) Structure basics
    5) To sort an array in ascending order
    6) To perform a Binary Search
-   7) To find frequency of a character in the string
+   7) To find the frequency of a character in the string
 
 C) Data Structures
    1) Linked List Implementation 
 
 D) Others
-   1) To Create a Thread using POSIX in Linux
+   1) To create a Thread using POSIX in Linux
 
 E) Embedded C
-   1) To count number of 1's in a binary
+   1) To count the number of 1's in a binary
    2) To check if a number is even or odd
+   3) To count the number of trailing zeroes in a binary
