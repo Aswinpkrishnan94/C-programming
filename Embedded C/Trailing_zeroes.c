@@ -20,6 +20,6 @@ int main()
         num =num>>1;
     }
     
-    printf("number of leading zeroes = %d",count);
+    printf("number of trailing zeroes = %d",count);
     return 0;
 }
