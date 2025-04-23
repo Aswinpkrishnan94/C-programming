@@ -32,4 +32,5 @@ D) Others
 E) Embedded C
    1) To count the number of 1's in a binary
    2) To check if a number is even or odd
-   3) To count the number of the trailing zeroes in a binary
+   3) To count the number of trailing zeroes in a binary
+   4) To count the number of leading zeroes in a binary
