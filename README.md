@@ -13,7 +13,8 @@ A) Fundamentals
    9) To check if a number is a Palindrome or not
    10) To find the GCD of two numbers
    11) To find the LCM of two numbers
-   12) To check if a given number is neon number or not
+   12) To check if a given number is a neon number or not
+   13) To check if the number is perfect or not
 
 B) Pointers and Arrays
    1) Pointer basics
