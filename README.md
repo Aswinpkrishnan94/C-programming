@@ -15,6 +15,7 @@ A) Fundamentals
    11) To find the LCM of two numbers
    12) To check if a given number is a neon number or not
    13) To check if the number is perfect or not
+   14) To check if the number is strong or not
 
 B) Pointers and Arrays
    1) Pointer basics
