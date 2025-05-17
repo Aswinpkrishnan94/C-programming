@@ -25,6 +25,7 @@ B) Pointers and Arrays
    5) To sort an array in ascending order
    6) To perform a Binary Search
    7) To find the frequency of a character in the string
+   8) To find if a string is a palindrome or not
 
 C) Data Structures
    1) Linked List Implementation 
